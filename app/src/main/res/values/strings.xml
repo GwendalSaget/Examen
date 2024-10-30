@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="Ex1">Ejercicio1</string>
+    <string name="Ex2">Ejercicio2</string>
+    <string name="Ex3">Ejercicio3Inicio</string>
+    <string name="Ex3Lista">Lista</string>
+    <string name="home">Main</string>
+</resources>
