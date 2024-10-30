@@ -1,8 +1,8 @@
 ### 1. Actividad `PantallaInicio`
 - **Descripción**: Esta es la pantalla principal de la aplicación. Presenta tres botones que permiten al usuario navegar a diferentes funcionalidades de la aplicación.
-  - **Botón a `ExDos`**: Permite al usuario acceder a la gestión de la lista de compras.
-  - **Botón a `ExTres`**: Permite al usuario crear y gestionar tareas.
-  - **Botón a `MainActivity`**: Lleva al usuario a la actividad principal de la aplicación.
+  - **Botón a ExDos: Permite al usuario acceder a la gestión de la lista de compras.
+  - **Botón a ExTres: Permite al usuario crear y gestionar tareas.
+  - **Botón a MainActivity: Lleva al usuario a la actividad principal de la aplicación.
 
 ### 2. Actividad `ExDos` (Lista de Compras)
 - **Descripción**: Esta actividad permite al usuario crear y gestionar su lista de compras.
@@ -18,4 +18,4 @@
 - **Marcar como Hecha**: El usuario puede marcar una tarea como completada, lo que se reflejará visualmente en la lista.
 
   Gwendal Saget
-  Enlace del repository :
+  Enlace del repository : https://github.com/GwendalSaget/Examen/tree/master
